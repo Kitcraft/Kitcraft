@@ -1,3 +1,3 @@
 # Welcome to my profile!
 
-The README is a work in progress.
+![My github stats](https://github-readme-stats.vercel.app/api?username=Kitsuen&show_icons=true&theme=tokyonight)
