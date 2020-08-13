@@ -1,5 +1,5 @@
 # Hi there, I'm Kit!
-## I a beginner in Developing and Reverse engineering.
+## Im a beginner in Developing and Reverse engineering.
 ### I code in C++, NodeJS, Lua. Sometimes i code in other language too!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitcraft&layout=compact&theme=tokyonight)
